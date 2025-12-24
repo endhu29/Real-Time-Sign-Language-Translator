@@ -1,0 +1,20 @@
+# Core ML & Deep Learning
+tensorflow>=2.16.1
+numpy
+scikit-learn
+
+# Computer Vision
+opencv-python
+mediapipe
+
+# Data Handling
+pandas
+matplotlib
+
+# Web / App (optional – if using web interface)
+# flask
+# streamlit
+
+# Utilities
+# protobuf
+# tqdm
